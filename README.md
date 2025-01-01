@@ -1,9 +1,8 @@
-
-![rizz-chain-diagram drawio](https://github.com/user-attachments/assets/8028c524-fd9c-4e5e-b727-f84afd076ee7)
-
 # Rizz Chain: Blockchain Powered by Love
 
 Welcome to the **Rizz Chain** repository, where technology meets charm in the quest to master the art of "Rizz"! Rizz Chain uses advanced, albeit playful, blockchain technology to learn and distribute the art of attraction, all through interactions with our state-of-the-art chatbot. Prepare for a lighthearted blend of technology and flirtation that's sure to entertain!
+
+![rizz-chain-diagram drawio](https://github.com/user-attachments/assets/8028c524-fd9c-4e5e-b727-f84afd076ee7)
 
 ## Features
 
