@@ -5,10 +5,10 @@ Welcome to the **Rizz Chain** repository, where technology meets charm in the qu
 ## Dating terminal
 https://rizzchain.vip/
 
-![rizz-chain-diagram drawio](https://github.com/user-attachments/assets/8028c524-fd9c-4e5e-b727-f84afd076ee7)
-
 ## X community 
 https://x.com/i/communities/1874974547591770483
+
+![rizz-chain-diagram drawio](https://github.com/user-attachments/assets/8028c524-fd9c-4e5e-b727-f84afd076ee7)
 
 ## Features
 
