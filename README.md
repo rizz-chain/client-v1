@@ -8,7 +8,7 @@ https://rizzchain.vip/
 ## X community 
 https://x.com/i/communities/1874974547591770483
 
-![rizz-chain-diagram drawio](https://github.com/user-attachments/assets/8028c524-fd9c-4e5e-b727-f84afd076ee7)
+![Screenshot 2025-02-07 at 10 07 02 am](https://github.com/user-attachments/assets/b007239a-a186-442c-8ff5-a66a017851f5)
 
 ## Features
 
